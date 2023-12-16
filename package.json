@@ -58,7 +58,7 @@
     "postinstall": "node dist/esm/postinstall.mjs --action install"
   },
   "dependencies": {
-    "@nativescript/webpack": "~5.0.0",
+    "@nativescript/webpack": "5.0.17",
     "chokidar": "^3.5.2",
     "fs-extra": "^11.1.0",
     "nativescript-dev-xcode": "~0.5.0",
